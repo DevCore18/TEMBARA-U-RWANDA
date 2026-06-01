@@ -98,7 +98,7 @@
                       v-model="form.name"
                       required
                       class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#2E7D32] focus:border-transparent outline-none transition"
-                      placeholder="John Doe"
+                      placeholder=""
                     >
                   </div>
                   <div>
@@ -108,7 +108,7 @@
                       v-model="form.email"
                       required
                       class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#2E7D32] focus:border-transparent outline-none transition"
-                      placeholder="john@example.com"
+                      placeholder=""
                     >
                   </div>
                 </div>
@@ -120,7 +120,7 @@
                       type="tel" 
                       v-model="form.phone"
                       class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#2E7D32] focus:border-transparent outline-none transition"
-                      placeholder="+250 788 123 456"
+                      placeholder=""
                     >
                   </div>
                   <div>

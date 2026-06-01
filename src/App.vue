@@ -10,6 +10,6 @@ import Footer from './components/footer.vue'
 <!-- <Home/> -->
  <Footer/>
 </template>
-  
+  .....
 
 
