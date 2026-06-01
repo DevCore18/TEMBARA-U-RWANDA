@@ -59,7 +59,7 @@
         
         <div class="grid md:grid-cols-3 gap-6">
           <div class="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-2">
-            <img src="https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" class="h-48 w-full object-cover">
+            <img src="" class="h-48 w-full object-cover">
             <div class="p-5">
               <h4 class="text-xl font-bold text-gray-800 mb-2">🌳 Nyungwe National Park</h4>
               <p class="text-gray-600 text-sm">One of Africa's oldest rainforests with 13 primate species including chimpanzees and colobus monkeys.</p>
