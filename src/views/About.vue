@@ -31,7 +31,7 @@
           </div>
           <div>
             <img 
-              src="https://images.pexels.com/photos/2265876/pexels-photo-2265876.jpeg?auto=compress&cs=tinysrgb&w=800" 
+              src="../assets/murukali.jpg" 
               alt="Rwandan people"
               class="w-full rounded-2xl shadow-2xl object-cover h-[400px] hover:scale-105 transition duration-500"
             >
