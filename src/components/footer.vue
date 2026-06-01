@@ -48,13 +48,15 @@
             <li><router-link to="/west-province" class="text-white hover:text-white/80 transition duration-300 flex items-center">→ Western Province</router-link></li>
             <li><router-link to="/east-province" class="text-white hover:text-white/80 transition duration-300 flex items-center">→ East Province</router-link></li>
             <li><router-link to="/south-province" class="text-white hover:text-white/80 transition duration-300 flex items-center">→ South Province</router-link></li>
+            <p>SHEMA Irene Patrick</p>
           </ul>
         </div>
        
       </div>
-      
+  
       <div class="border-t border-white/20 pt-6 text-center text-white text-sm">
-        <p>&copy; 2026 Tembera U Rwanda. All rights reserved. | Designed with ❤️ for Rwanda</p>
+        <p>&copy; 2026 Tembera U Rwanda. All rights reserved. | Designed with ❤️ for Rwanda</P>
+
       </div>
     </div>
   </footer>

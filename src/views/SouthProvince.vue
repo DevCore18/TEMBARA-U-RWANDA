@@ -43,7 +43,7 @@
           </div>
           <div class="grid grid-cols-2 gap-4">
         <img src="../assets/OIP (1).jpg" class="rounded-xl h-48 object-cover shadow-lg hover:scale-105 transition duration-300">
-            <img src="../assets/OIP (1).jpg" class="rounded-xl h-48 object-cover mt-8 shadow-lg hover:scale-105 transition duration-300">
+            <img src="../assets/visits.jpg" class="rounded-xl h-48 object-cover mt-8 shadow-lg hover:scale-105 transition duration-300">
           </div>
         </div>
       </div>
