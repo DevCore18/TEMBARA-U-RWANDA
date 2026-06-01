@@ -137,3 +137,4 @@ export default {
   animation: fadeInUp 1s ease-out;
 }
 </style>
+.

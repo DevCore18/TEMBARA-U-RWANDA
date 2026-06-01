@@ -196,3 +196,4 @@ export default {
   animation: slide-up 0.8s ease-out;
 }
 </style>
+.

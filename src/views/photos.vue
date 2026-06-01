@@ -220,3 +220,4 @@ export default {
   animation: fadeIn 0.5s ease-out;
 }
 </style>
+.
