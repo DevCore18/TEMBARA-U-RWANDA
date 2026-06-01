@@ -89,7 +89,7 @@
         
         <div class="grid md:grid-cols-3 gap-6">
           <div class="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-2">
-            <img src="../assets/Parc_National_d'Akagera.jpg" class="h-48 w-full object-cover">
+            <img src="../assets/Parc_National_d_Akagera.jpg" class="h-48 w-full object-cover">
             <div class="p-5">
               <h4 class="text-xl font-bold text-gray-800 mb-2">🦁 Akagera National Park</h4>
               <p class="text-gray-600 text-sm">Experience the Big Five in Rwanda's only savannah park. Over 1,122 square kilometers of wilderness.</p>
